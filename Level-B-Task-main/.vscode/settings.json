@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.sql": "sql"
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "LevelB_Task",
+            "database": "levelb_task",
+            "username": "root"
+        }
+    ],
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on"
+}
